@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Check your weather forecast below!</p>
+</div>
+
+<div>
+    <div>
+        <form asp-action="Weather" method="get">
+            <input name="days" placeholder="Enter number of days" />
+            <input type="submit" />
+        </form>
+        </p>
+    </div>
+</div>

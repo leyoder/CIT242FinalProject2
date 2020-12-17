@@ -1,0 +1,28 @@
+@model IEnumerable<Assignment12.Models.Weather>
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <tr>
+        <th>Date</th>
+        <th>TemperatureC</th>
+        <th>TemperatureF</th>
+        <th>Summary</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TemperatureC)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TemperatureF)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Summary)
+        </td>
+    </tr>
+    }
+</table>

@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "Assignment12"
+		},
+		{
+			"path": "API13"
+		},
+		{
+			"path": "NorthwindContextLib"
+		},
+		{
+			"path": "NorthwindEntitiesLib"
+		},
+		{
+			"path": "NorthwindEntitiesLibTests"
+		}
+	],
+	"settings": {}
+}

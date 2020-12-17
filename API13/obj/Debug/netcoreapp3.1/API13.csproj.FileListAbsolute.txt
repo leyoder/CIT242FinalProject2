@@ -1,0 +1,40 @@
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.exe
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.deps.json
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.runtimeconfig.json
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.dll
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.pdb
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.RazorTargetAssemblyInfo.cache
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\obj\Debug\netcoreapp3.1\staticwebassets\API13.StaticWebAssets.Manifest.cache
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\obj\Debug\netcoreapp3.1\staticwebassets\API13.StaticWebAssets.xml
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.dll
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.pdb
+C:\Users\laure\OneDrive\Documents\Code\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.genruntimeconfig.cache
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.exe
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.deps.json
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.runtimeconfig.json
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.dll
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\bin\Debug\netcoreapp3.1\API13.pdb
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.RazorTargetAssemblyInfo.cache
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\obj\Debug\netcoreapp3.1\staticwebassets\API13.StaticWebAssets.Manifest.cache
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\obj\Debug\netcoreapp3.1\staticwebassets\API13.StaticWebAssets.xml
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.dll
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.pdb
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\API13\obj\Debug\netcoreapp3.1\API13.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\NorthwindEntitiesLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.deps.json
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\NorthwindEntitiesLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.dll
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\NorthwindEntitiesLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.pdb
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.dll
+C:\Users\laure\OneDrive\Documents\School\ASP .Net\Final Project\Chapter18\NorthwindEntitiesLib\obj\Debug\netstandard2.1\NorthwindEntitiesLib.pdb

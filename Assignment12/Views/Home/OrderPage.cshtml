@@ -1,0 +1,20 @@
+@model Assignment12.Models.OrderViewModel
+@{
+    ViewData["Title"] = "Orders";
+}
+
+
+<div>
+    <h2>Order Summary</h2>
+        <div>
+            <ul>
+                @foreach (var item in @Model.Orders)
+                {
+                    <li>
+                        @item.OrderID was placed on
+                        @item.OrderDate
+                    </li>
+                }
+            </ul>
+        </div>
+</div>
